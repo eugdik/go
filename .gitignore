@@ -4,12 +4,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
-.idea/vcs.xml
-.idea/jsLibraryMappings.xml
-
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
@@ -20,8 +16,6 @@
 
 # Gradle:
 .idea/gradle.xml
-.idea/libraries
-
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
@@ -49,7 +43,6 @@ fabric.properties
 
 # IntelliJ project files
 .idea
-*.iml
 out
 gen### Go template
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
@@ -77,8 +70,3 @@ _testmain.go
 *.test
 *.prof
 
-.gitignore
-Pr01/Build Pr01
-Pr01/main
-Build Pr01
-main
